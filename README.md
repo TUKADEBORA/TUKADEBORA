@@ -1,6 +1,7 @@
 - 👋 Salut , je suis TUKA DEBORA
 - 👀 Je suis pédiatre , épidémiologiste et statisticienne 
-- 🌱 Passionnée par la néonatologie 
+- 🌱 Passionnée par la néonatologie
+- tukadebora@gmail.com
 
 <!---
 TUKADEBORA/TUKADEBORA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
